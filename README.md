@@ -12,7 +12,7 @@ You can use it as a troll or whatever.<br>
 how to use:
 1) You need to make sure you have a windows computer, or that your machine is not transfering data to another local network device,
    For example: in kali linux you need to make sure that:
-   The output of the command:
+   The output of the command:<br>
    $ cat /proc/sys/net/ipv4/ip_forward<br>
    is:<br>
    $ 0
